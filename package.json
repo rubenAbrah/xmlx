@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.76.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "underscore": "^1.13.6",
+    "xlsx": "^0.18.5"
+  }
+}
+ 
